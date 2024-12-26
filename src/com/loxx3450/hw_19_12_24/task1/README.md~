@@ -1,0 +1,1 @@
+Model **TrafficFlow** encapsulates the traffic flow inside of **Dock** during a certain period. **MotorboatDock** contains of List of these objects. The information if **Dock's Stop** is final or not, influences logic of calculating the count of free spaces in the boat. It is expected that all passengers will get out and every boat's place will be free. 
